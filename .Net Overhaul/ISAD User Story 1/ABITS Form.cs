@@ -26,7 +26,7 @@ namespace ISAD_User_Story_1
         private void aBITSForm_Load(object sender, EventArgs e)
         {
             // TODO: This line of code loads data into the 'aBITSDataSet.Prospective_Member_Info' table. You can move, or remove it, as needed.
-            this.prospective_Member_InfoTableAdapter.Fill(this.aBITSDataSet.Prospective_Member_Info);
+            // this.prospective_Member_InfoTableAdapter.Fill(this.aBITSDataSet.Prospective_Member_Info);
 
         }
 
