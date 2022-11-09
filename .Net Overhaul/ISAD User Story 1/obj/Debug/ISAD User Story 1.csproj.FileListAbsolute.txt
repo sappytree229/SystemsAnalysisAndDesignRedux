@@ -1,0 +1,12 @@
+C:\Users\jacob\source\repos\ISAD User Story 1\ISAD User Story 1\bin\Debug\ABITS.accdb
+C:\Users\jacob\source\repos\ISAD User Story 1\ISAD User Story 1\bin\Debug\ISAD User Story 1.exe.config
+C:\Users\jacob\source\repos\ISAD User Story 1\ISAD User Story 1\bin\Debug\ISAD User Story 1.exe
+C:\Users\jacob\source\repos\ISAD User Story 1\ISAD User Story 1\bin\Debug\ISAD User Story 1.pdb
+C:\Users\jacob\source\repos\ISAD User Story 1\ISAD User Story 1\obj\Debug\ISAD User Story 1.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\ISAD User Story 1\ISAD User Story 1\obj\Debug\ISAD User Story 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacob\source\repos\ISAD User Story 1\ISAD User Story 1\obj\Debug\ISAD_User_Story_1.aBITSForm.resources
+C:\Users\jacob\source\repos\ISAD User Story 1\ISAD User Story 1\obj\Debug\ISAD_User_Story_1.Properties.Resources.resources
+C:\Users\jacob\source\repos\ISAD User Story 1\ISAD User Story 1\obj\Debug\ISAD User Story 1.csproj.GenerateResource.cache
+C:\Users\jacob\source\repos\ISAD User Story 1\ISAD User Story 1\obj\Debug\ISAD User Story 1.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\ISAD User Story 1\ISAD User Story 1\obj\Debug\ISAD User Story 1.exe
+C:\Users\jacob\source\repos\ISAD User Story 1\ISAD User Story 1\obj\Debug\ISAD User Story 1.pdb
