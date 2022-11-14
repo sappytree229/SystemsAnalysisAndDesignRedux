@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.OleDb;
 
 namespace ISAD_User_Story_1
 {
@@ -20,6 +21,20 @@ namespace ISAD_User_Story_1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            String myConnectionString = "";
+            String mySQLInsert = "";
+            OleDbConnection myConnection;
+            OleDbCommand myCommand;
+
+            
+            myConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0; Data Source =C:\\Users\\sappy\\source\\repos\\sappytree229\\SystemsAnalysisAndDesignRedux\\.Net Overhaul\\ISAD User Story 1\\ABITS.accdb";
+            mySQLInsert = "Insert into PROSPECTIVE_MEMBER_INFO (fName) values (" + fNameTextBox.Text + ")";
+
+            myConnection = new OleDbConnection(myConnectionString);
+            myConnection.Open();
+
+            myCommand = new OleDbCommand(mySQLInsert, myConnection);
+
             SqlCommand query = new SqlCommand("Insert into PROSPECTIVE_MEMBER_INFO (fName) values (" + fNameTextBox.Text + ")");
         }
 
